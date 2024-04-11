@@ -1,0 +1,1 @@
+g++ main.cpp dfsSearch.cpp hIndex.cpp edgeGenerator.cpp Io.cpp Repeel.cpp -fopenmp -O3 -mcmodel=medium -o dcore

@@ -1,0 +1,12 @@
+argv[1]: batch_size
+argv[2]: input_file_name
+argv[3]: thread_number_for_single_edge
+argv[4]: bool_optimization_h_index
+argv[5]: bool_batch_kmax_hierarchy
+argv[6]: bool_batch_kedge_set
+argv[7]: bool_decomp_maintenance
+argv[8]: bool_peel_maintenance
+argv[9]: bool_k0core_pruning
+argv[10]: bool_reuse_pruning
+argv[11]: bool_skip_pruning
+argv[12]: bool_dfs
