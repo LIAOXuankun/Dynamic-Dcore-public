@@ -1,6 +1,6 @@
 
 ## Description
-Welcome to the readme file of the code for the paper titled **Efficient Parallel Algorithms for D-core Maintenance over Dynamic Directed Graphs**. In this work, we provide a formal definition of the problem of D-core maintenance over dynamic directed graphs. With the proposed theorems as a basis, we initially introduce a local-search-based algorithm along with three optimizations to reduce the search space. Additionally, we propose an H-index-based algorithm to handle batch updates.
+Welcome to the readme file of the code for the paper titled **Accelerating D-core Maintenance over Dynamic Directed Graphs**. In this work, we provide a formal definition of the problem of D-core maintenance over dynamic directed graphs. With the proposed theorems as a basis, we initially introduce a local-search-based algorithm along with three optimizations to reduce the search space. Additionally, we propose an H-index-based algorithm to handle batch updates.
 
 ## Contributions
 - Fundamental problem of D-core maintenance over dynamic directed graphs
